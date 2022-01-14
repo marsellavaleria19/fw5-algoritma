@@ -1,0 +1,7 @@
+Algortima boil water : 
+1. Ambil panci.
+2. Isi panci dengan air sampai 3/4 dari panci.
+3. Taruh panci yang sudah berisi air diatas kompor.
+4. Nyalakan kompor dan tunggu hingga air mendidih.
+5. Setelah air mendidih, matikan kompor.
+6. Air siap digunakan.

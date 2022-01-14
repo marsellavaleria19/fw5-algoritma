@@ -1,0 +1,6 @@
+Algoritma bilangan ganjil dan genap :
+1. Isi variabel x dengan angka.
+2. bagi variabel x dengan 2.
+3. Cek apakah variabel x dapat dimod 2 atau tidak dengan operator pembanding '=='.
+3. Jika variabel x dimod 2 adalah 0, maka variable x adalah bilangan genap.
+Jika tidak, maka variable x adalah bilangan ganjil.

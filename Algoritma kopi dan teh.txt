@@ -1,0 +1,5 @@
+Algoritma pindah kopi dan teh : 
+1. Siapkan satu gelas kosong.
+2. gelas berisi kopi dipindah ke gelas kosong.
+3. Setelah gelas berisi kopi sebelumnya kosong, pindahkan gelas berisi teh ke gelas berisi kopi sebelumnya.
+4. gelas kosong yang telah berisi kopi tadi, dipindah ke gelas berisi teh sebelumnya. 
