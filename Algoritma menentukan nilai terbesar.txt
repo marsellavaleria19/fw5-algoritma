@@ -1,7 +1,10 @@
 Algoritma menentukan nilai terbesar:
 1. Isi variabel x dan variable y dengan angka.
-2. Cek apakah variabel x lebih besar dari variable y dengan operator perbandingan lebih besar '>'.
+2. Cek apakah variabel x dan y kosong atau tidak. Jika kosong, maka beritahu variabel x dan variabel y
+   harus diisi.
+2. Jika variabel x dan y tidak kosong, cek apakah variabel x lebih besar dari variable y dengan 
+   operator perbandingan lebih besar '>'.
 3. Jika variable x lebih besar dari variable y, maka print variable x yang menjadi nilai terbesar.
-Jika tidak maka print variable y yang menjadi nilai terbesar.
+    Jika tidak maka print variable y yang menjadi nilai terbesar.
 
 

@@ -1,7 +1,11 @@
 Algortima menghitung luas dan keliling lingkaran:
 1. Masukkan jari-jari lingkaran.
-2. Lalu bagi jari-jari dengan 7.
-3. Jika jari-jari kelipatan 7, mK hitung luas dengan rumus :
-22/7 * r*r. Jika bukan kelipatan 7, maka kita menghitung luas lingkaran dengan rumus 3.14*r*r.
-4. Untuk hitung keliling lingkaran, jika kelipatan 7, maka gunakan rumus :
-2 * 22/7 *r. Untuk yang bukan kelipatan 7, gunakan rumus : 2*3.14*r. 
+2. cek apakah jari-jari lingkaran yang dimasukkan kosong atau tidak. Jika kosong, maka kasih peringatan ke user 
+untuk mengisi jari-jari lingkaran. 
+3. Jika jari-jari lingkaran tidak kosong, cek apakah jari-jari lingkaran yang dimasukkan berupa huruf atau angka.
+jika berupa huruf, kasih peringatan ke user agar mengisi dengan angka.
+4. Jika jari-jari lingkaran telah diisi dengan angka, maka bagi jari-jari lingkaran dengan 7.
+5. Lalu cek apakah jari-jari lingkaran dibagi 7 sisanya 0 atau tidak. Jika sisanya 0, maka isi variabel phi dengan
+22/7. Jika tidak maka isi variabel phi dengan 3.14. 
+6. Hitung luas lingkaran dengan rumus: phi * r*r.
+7. Hitung keliling lingkaran dengan rumus : 2*phi*r 
